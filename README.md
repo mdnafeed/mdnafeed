@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 ### My GitHub Stats
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnafeed&show_icons=true&locale=en" alt="mdnafeed" />                                                  
+<div style="display: grid;grid-template-columns: 50% 50% auto 10px;grid-column-gap: 15px;margin-bottom:13px">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnafeed&show_icons=true&locale=en" alt="mdnafeed" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnafeed&" alt="mdnafeed" />
 </div>
 
