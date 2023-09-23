@@ -14,9 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/akramnafeed" target="blank"><img src="https://img.shields.io/twitter/follow/akramnafeed?logo=twitter&style=for-the-badge" alt="akramnafeed" /></a> </p>
 
-- 🔭 I’m currently working on [Knowlarity](https://www.knowlarity.com/)
-
-- 🌱 I’m currently learning **Node Js, MongoDB**
+- 🔭 I’m currently working as a Angular Vue JS Developer
 
 - 📫 How to reach me **nafeedjmi@gmail.com**
 
