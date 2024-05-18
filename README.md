@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working as a Angular Vue JS Developer
 
-- 📫 How to reach me **nafeedjmi@gmail.com**
+- 📫 How to reach me **mdnafeed08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
