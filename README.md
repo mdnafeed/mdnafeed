@@ -7,6 +7,17 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnafeed&" alt="mdnafeed" />
 </div>
 
+## 📊 Repository Activity
+
+<div align="center">
+
+[![GitHub issues](https://img.shields.io/github/issues/mdnafeed/mdnafeed)](https://github.com/mdnafeed/mdnafeed/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/mdnafeed/mdnafeed)](https://github.com/mdnafeed/mdnafeed/pulls)
+[![GitHub contributors](https://img.shields.io/github/contributors/mdnafeed/mdnafeed)](https://github.com/mdnafeed/mdnafeed/graphs/contributors)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mdnafeed/mdnafeed)](https://github.com/mdnafeed/mdnafeed/commits)
+[![GitHub last commit](https://img.shields.io/github/last-commit/mdnafeed/mdnafeed)](https://github.com/mdnafeed/mdnafeed/commits)
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnafeed&label=Profile%20views&color=0e75b6&style=flat" alt="mdnafeed" /> </p>
 
