@@ -3,14 +3,22 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdnafeed&label=Profile%20Views&color=0e75b6&style=flat-square" alt="mdnafeed" />
-  <img src="https://img.shields.io/github/followers/mdnafeed?label=Followers&style=flat-square&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/mdnafeed?label=Total%20Stars&style=flat-square&color=yellow" alt="stars" />
-  <img src="https://img.shields.io/badge/Available%20for%20Work-Yes-brightgreen?style=flat-square" alt="available" />
+<!-- Animated Typing Effect -->
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;Angular+%7C+Vue.js+%7C+React+Expert;5%2B+Years+of+Coding+Experience;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- Profile Views and Stats Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mdnafeed&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="mdnafeed" />
+  <img src="https://img.shields.io/github/followers/mdnafeed?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/mdnafeed?label=Total%20Stars&style=for-the-badge&color=yellow" alt="stars" />
+  <img src="https://img.shields.io/badge/Available%20for%20Work-Yes-brightgreen?style=for-the-badge" alt="available" />
+  <img src="https://img.shields.io/badge/Open%20to%20Collaborate-Yes-brightgreen?style=for-the-badge" alt="collaborate" />
+</p>
+
+<!-- Social Media Links -->
+<p>
   <a href="https://twitter.com/akramnafeed" target="_blank">
     <img src="https://img.shields.io/twitter/follow/akramnafeed?logo=twitter&style=for-the-badge&color=1DA1F2" alt="akramnafeed" />
   </a>
@@ -20,366 +28,492 @@
 
 ## 📌 About Me
 
-<table align="center">
+<table width="100%">
   <tr>
-    <td>
+    <td width="50%">
+      <h3>👨‍💻 Personal Info</h3>
       <ul>
-        <li>🔭 I'm currently working as an <b>Angular & Vue.js Developer</b></li>
-        <li>🌱 I'm currently learning <b>NestJS, Next.js, and Advanced TypeScript</b></li>
-        <li>💬 Ask me about <b>Angular, Vue.js, React, JavaScript, TypeScript</b></li>
-        <li>📫 How to reach me: <b>mdnafeed08@gmail.com</b></li>
-        <li>⚡ Fun fact: <b>I love creating beautiful UI/UX experiences</b></li>
-        <li>🎯 2026 Goals: <b>Contribute to Open Source & Build SaaS Products</b></li>
+        <li>🔭 <b>Current Role:</b> Angular & Vue.js Developer</li>
+        <li>🌱 <b>Currently Learning:</b> NestJS, Next.js, Advanced TypeScript</li>
+        <li>💬 <b>Ask me about:</b> Angular, Vue.js, React, JavaScript, TypeScript</li>
+        <li>📫 <b>Email:</b> mdnafeed08@gmail.com</li>
+        <li>📱 <b>Phone:</b> +91 XXXXXXXXXX</li>
+        <li>📍 <b>Location:</b> India</li>
+        <li>🎂 <b>Birthday:</b> [Your Birthday]</li>
+        <li>🌐 <b>Languages:</b> English, Hindi, [Your Native Language]</li>
       </ul>
     </td>
-  </tr>
+    <td width="50%">
+      <h3>🎯 Professional Goals</h3>
+      <ul>
+        <li>⚡ <b>Fun Fact:</b> I love creating beautiful UI/UX experiences</li>
+        <li>🎯 <b>2026 Goals:</b> Contribute to Open Source & Build SaaS Products</li>
+        <li>🚀 <b>Dream:</b> Become a Full-Stack Architect</li>
+        <li>📚 <b>Reading:</b> Clean Code by Robert C. Martin</li>
+        <li>🎓 <b>Education:</b> [Your Degree]</li>
+        <li>💼 <b>Experience:</b> [X] Years</li>
+        <li>🏆 <b>Achievements:</b> [List your achievements]</li>
+      </ul>
+     </td>
+   </tr>
+  <tr>
+    <td colspan="2">
+      <h3>📊 Daily Routine</h3>
+      <ul>
+        <li>🌅 <b>Morning (9 AM - 12 PM):</b> Code Reviews & Planning</li>
+        <li>🌞 <b>Afternoon (12 PM - 5 PM):</b> Active Development & Meetings</li>
+        <li>🌙 <b>Evening (5 PM - 8 PM):</b> Learning & Personal Projects</li>
+        <li>⭐ <b>Night (8 PM+):</b> Open Source Contributions</li>
+      </ul>
+    </td>
+   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics Dashboard
 
-<table align="center">
+<table width="100%">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mdnafeed&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnafeed&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+    <td colspan="2">
+      <h3>📈 Overall GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=mdnafeed&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=github" width="95%" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnafeed&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
+    <td width="50%">
+      <h3>🔥 Contribution Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnafeed&theme=radical&hide_border=true&background=0D1117&fire=ff69b4&ring=ff69b4&currStreakLabel=ff69b4" width="100%" />
     </td>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=mdnafeed&theme=radical&no-frame=true&row=2&column=2&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+    <td width="50%">
+      <h3>💻 Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnafeed&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=10" width="100%" />
     </td>
   </tr>
 </table>
 
-## 📈 Contribution Activity Graph
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnafeed&theme=radical&hide_border=true&area=true&bg_color=0D1117&color=ff69b4&line=ff69b4&point=FFFFFF" alt="Activity Graph" width="95%" />
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnafeed&theme=radical&hide_border=true&area=true&bg_color=0D1117&color=ff69b4&line=ff69b4&point=FFFFFF&radius=10" width="95%" />
+</p>
+
+## 🏆 GitHub Trophies & Achievements
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=mdnafeed&theme=radical&no-frame=true&row=3&column=4&margin-w=15&margin-h=15" width="95%" />
 </p>
 
 ---
 
-## 🔥 Repository Statistics
+## 📊 Detailed Repository Analytics
 
-<table align="center">
+<table width="100%">
   <tr>
-    <th colspan="2">📊 Repository Metrics</th>
+    <th colspan="4">📈 Repository Metrics</th>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://img.shields.io/github/issues/mdnafeed/mdnafeed?style=for-the-badge&color=red" alt="Open Issues" />
+      <br/>Open Issues
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/issues-pr/mdnafeed/mdnafeed?style=for-the-badge&color=green" alt="Open PRs" />
+    <td>
+      <img src="https://img.shields.io/github/issues-closed/mdnafeed/mdnafeed?style=for-the-badge&color=green" alt="Closed Issues" />
+      <br/>Closed Issues
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues-pr/mdnafeed/mdnafeed?style=for-the-badge&color=orange" alt="Open PRs" />
+      <br/>Open PRs
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues-pr-closed/mdnafeed/mdnafeed?style=for-the-badge&color=purple" alt="Closed PRs" />
+      <br/>Closed PRs
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://img.shields.io/github/contributors/mdnafeed/mdnafeed?style=for-the-badge&color=blue" alt="Contributors" />
+      <br/>Contributors
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/commit-activity/m/mdnafeed/mdnafeed?style=for-the-badge&color=orange" alt="Monthly Commits" />
+    <td>
+      <img src="https://img.shields.io/github/commit-activity/m/mdnafeed/mdnafeed?style=for-the-badge&color=cyan" alt="Monthly Commits" />
+      <br/>Monthly Commits
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/last-commit/mdnafeed/mdnafeed?style=for-the-badge&color=yellow" alt="Last Commit" />
+      <br/>Last Commit
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/repo-size/mdnafeed/mdnafeed?style=for-the-badge&color=magenta" alt="Repo Size" />
+      <br/>Repo Size
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/github/last-commit/mdnafeed/mdnafeed?style=for-the-badge&color=purple" alt="Last Commit" />
+    <td>
+      <img src="https://img.shields.io/github/languages/count/mdnafeed/mdnafeed?style=for-the-badge&color=teal" alt="Languages Count" />
+      <br/>Languages
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/repo-size/mdnafeed/mdnafeed?style=for-the-badge&color=cyan" alt="Repo Size" />
+    <td>
+      <img src="https://img.shields.io/github/languages/top/mdnafeed/mdnafeed?style=for-the-badge&color=brown" alt="Top Language" />
+      <br/>Top Language
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/mdnafeed/mdnafeed?style=for-the-badge&color=gold" alt="Stars" />
+      <br/>Stars
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/forks/mdnafeed/mdnafeed?style=for-the-badge&color=lightblue" alt="Forks" />
+      <br/>Forks
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Complete Tech Stack
 
-<table align="center">
+<details>
+<summary><b>🎨 Click to expand - Frontend Development</b></summary>
+<br/>
+
+<table>
   <tr>
-    <th colspan="3">🎨 Frontend Development</th>
+    <th>Technology</th>
+    <th>Proficiency</th>
+    <th>Years Experience</th>
+    <th>Projects</th>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
       <br/>HTML5
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>5+ Years</td>
+    <td>50+</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
       <br/>CSS3
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>5+ Years</td>
+    <td>50+</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
       <br/>JavaScript
     </td>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>5+ Years</td>
+    <td>45+</td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/>
       <br/>TypeScript
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>3+ Years</td>
+    <td>30+</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/>
       <br/>React
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60"/>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>4+ Years</td>
+    <td>25+</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50"/>
       <br/>Vue.js
+    </td>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>4+ Years</td>
+    <td>35+</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="50" height="50"/>
+      <br/>Angular
+    </td>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>4+ Years</td>
+    <td>40+</td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>🎨 Click to expand - Styling & UI Frameworks</b></summary>
+<br/>
+
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Proficiency</th>
+    <th>Years Experience</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50"/>
+      <br/>Sass/SCSS
+    </td>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>4+ Years</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
+      <br/>Tailwind CSS
+    </td>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>3+ Years</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://bestofjs.org/logos/vuetify.svg" width="50" height="50"/>
+      <br/>Vuetify
+    </td>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>3+ Years</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50"/>
+      <br/>Bootstrap
+    </td>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>5+ Years</td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>⚙️ Click to expand - Backend & Database</b></summary>
+<br/>
+
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Proficiency</th>
+    <th>Years Experience</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
+      <br/>Node.js
+    </td>
+    <td>⭐⭐⭐⭐</td>
+    <td>3+ Years</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"/>
+      <br/>PHP
+    </td>
+    <td>⭐⭐⭐⭐</td>
+    <td>4+ Years</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="50" height="50"/>
+      <br/>Laravel
+    </td>
+    <td>⭐⭐⭐⭐</td>
+    <td>3+ Years</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+      <br/>MySQL
+    </td>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>5+ Years</td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>🛠️ Click to expand - Tools & Others</b></summary>
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
+      <br/>Git
+    </td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50"/>
+      <br/>Postman
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
+      <br/>Linux
+    </td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50"/>
+      <br/>Figma
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angular" width="60" height="60"/>
-      <br/>Angular
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
+      <br/>VS Code
     </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="60" height="60"/>
-      <br/>Nuxt.js
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="50" height="50"/>
+      <br/>Webpack
     </td>
-    <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="50" height="50"/>
+      <br/>Babel
+    </td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50" height="50"/>
       <br/>Next.js
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/>
-      <br/>Redux
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="60" height="60"/>
-      <br/>jQuery
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
-      <br/>Bootstrap
-    </td>
-  </tr>
 </table>
+</details>
 
-<table align="center">
-  <tr>
-    <th colspan="3">🎨 Styling & UI Frameworks</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/>
-      <br/>Sass/SCSS
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
-      <br/>Tailwind CSS
-    </td>
-    <td align="center">
-      <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="60" height="60"/>
-      <br/>Vuetify
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="60" height="60"/>
-      <br/>Bulma
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="60" height="60"/>
-      <br/>Materialize
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="60" height="60"/>
-      <br/>Material UI
-    </td>
-  </tr>
-</table>
+---
 
-<table align="center">
-  <tr>
-    <th colspan="3">⚙️ Backend & Database</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
-      <br/>Node.js
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/>
-      <br/>PHP
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="60" height="60"/>
-      <br/>Laravel
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
-      <br/>MySQL
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
-      <br/>MongoDB
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="60" height="60"/>
-      <br/>Firebase
-    </td>
-  </tr>
-</table>
+## 📈 Weekly Development Metrics
 
-<table align="center">
+<table width="100%">
   <tr>
-    <th colspan="3">🛠️ Build Tools & Others</th>
+    <th colspan="2">📊 Time Distribution (Weekly Average)</th>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="60" height="60"/>
-      <br/>Babel
+    <td width="50%">
+      <b>TypeScript</b><br/>
+      <img src="https://progress-bar.dev/45/" alt="45%" width="90%"/>
+      <br/>22 hours (45%)
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="60" height="60"/>
-      <br/>Webpack
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="60" height="60"/>
-      <br/>Gulp
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
-      <br/>Git
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
-      <br/>Postman
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
-      <br/>Linux
+    <td width="50%">
+      <b>JavaScript</b><br/>
+      <img src="https://progress-bar.dev/35/" alt="35%" width="70%"/>
+      <br/>17 hours (35%)
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
-      <br/>Figma
+    <td>
+      <b>HTML/CSS</b><br/>
+      <img src="https://progress-bar.dev/14/" alt="14%" width="28%"/>
+      <br/>7 hours (14%)
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/>
-      <br/>Photoshop
-    </td>
-    <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="60" height="60"/>
-      <br/>Pug
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="60" height="60"/>
-      <br/>Gatsby
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="60" height="60"/>
-      <br/>VS Code
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60"/>
-      <br/>NPM
+    <td>
+      <b>PHP/Other</b><br/>
+      <img src="https://progress-bar.dev/6/" alt="6%" width="12%"/>
+      <br/>3 hours (6%)
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 Weekly Development Breakdown
+## 🎯 Project Statistics & Achievements
 
-<table align="center">
+<table width="100%">
   <tr>
-    <th>Language/Technology</th>
-    <th>Time Spent</th>
-    <th>Percentage</th>
+    <th colspan="3">📊 Project Portfolio</th>
   </tr>
   <tr>
-    <td>TypeScript</td>
-    <td>22 hrs</td>
     <td>
-      <img src="https://progress-bar.dev/45/" alt="45%" width="300"/>
-      <br/>45%
+      <b>🚀 Total Projects</b><br/>
+      <h2>50+</h2>
+    </td>
+    <td>
+      <b>⭐ Production Projects</b><br/>
+      <h2>35+</h2>
+    </td>
+    <td>
+      <b>🎯 Open Source</b><br/>
+      <h2>10+</h2>
     </td>
   </tr>
   <tr>
-    <td>JavaScript</td>
-    <td>17 hrs</td>
     <td>
-      <img src="https://progress-bar.dev/35/" alt="35%" width="300"/>
-      <br/>35%
+      <b>👥 Clients Served</b><br/>
+      <h2>25+</h2>
     </td>
-  </tr>
-  <tr>
-    <td>HTML/CSS</td>
-    <td>7 hrs</td>
     <td>
-      <img src="https://progress-bar.dev/14/" alt="14%" width="300"/>
-      <br/>14%
+      <b>🌍 Countries</b><br/>
+      <h2>5+</h2>
     </td>
-  </tr>
-  <tr>
-    <td>PHP/Other</td>
-    <td>3 hrs</td>
     <td>
-      <img src="https://progress-bar.dev/6/" alt="6%" width="300"/>
-      <br/>6%
+      <b>📱 Mobile Apps</b><br/>
+      <h2>8+</h2>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎯 Current Focus & Learning Goals
+## 📝 Recent Blog Posts & Articles
 
-<table align="center">
-  <tr>
-    <td align="center">
-      🚀 <b>Building</b><br/>
-      Scalable frontend applications with Angular & Vue.js
-    </td>
-    <td align="center">
-      📚 <b>Learning</b><br/>
-      NestJS for backend development
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      ☁️ <b>Exploring</b><br/>
-      Cloud Technologies & DevOps
-    </td>
-    <td align="center">
-      🎨 <b>Mastering</b><br/>
-      UI/UX Design Principles
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🌍 <b>Contributing to</b><br/>
-      Open Source Projects
-    </td>
-    <td align="center">
-      📱 <b>Building</b><br/>
-      Mobile apps with React Native
-    </td>
-  </tr>
-</table>
+<!-- BLOG-POST-LIST:START -->
+- 🚀 Coming Soon: "10 Angular Best Practices for 2026"
+- 📝 Coming Soon: "Vue.js vs React: Which One to Choose?"
+- 💡 Coming Soon: "TypeScript Tips and Tricks"
+- 🎨 Coming Soon: "Mastering CSS Grid and Flexbox"
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 📱 Connect With Me
+## 📅 GitHub Activity Calendar
 
-<p align="center">
+<p>
+  <img src="https://ghchart.rshah.org/mdnafeed" alt="GitHub Activity Calendar" width="95%" />
+</p>
+
+---
+
+## 📊 GitHub Metrics (Detailed)
+
+<p>
+  <img src="https://metrics.lecoq.io/mdnafeed?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&people=1&lines=1&stargazers=1&followup=1&activity=1&achievements=1&notable=1&introduction=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&followup.indepth=false&activity.limit=5&activity.load=300&activity.days=14&activity.visible=false&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.ignored=star%2C%20fork&introduction.title=true&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics" width="95%" />
+</p>
+
+---
+
+## 🎵 Spotify Recently Played
+
+<p>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=radical" alt="Spotify" width="95%" />
+</p>
+
+---
+
+## 💰 Support My Work
+
+<p>
+  <a href="https://www.buymeacoffee.com/mdnafeed" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="200" />
+  </a>
+  <a href="https://www.patreon.com/mdnafeed" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
+  </a>
+  <a href="https://www.paypal.me/mdnafeed" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+  <a href="https://ko-fi.com/mdnafeed" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me On All Platforms
+
+<p>
   <a href="https://codepen.io/mdnafeed" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
   </a>
@@ -404,13 +538,19 @@
   <a href="https://github.com/mdnafeed" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://dev.to/mdnafeed" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://medium.com/@mdnafeed" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </p>
 
 ---
 
 ## 📧 Contact Information
 
-<p align="center">
+<p>
   <a href="mailto:mdnafeed08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -420,56 +560,65 @@
   <a href="https://t.me/mdnafeed" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdnafeed&theme=radical&no-frame=true&row=3&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="95%" />
-</p>
-
----
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/mdnafeed?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta" alt="GitHub Metrics" width="95%" />
-</p>
-
----
-
-## 💰 Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/mdnafeed" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
+  <a href="skype:mdnafeed?chat" target="_blank">
+    <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype" />
   </a>
-  <br/>
-  <a href="https://www.paypal.me/mdnafeed" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
 ---
 
-<div align="center">
+## 🎨 Random Dev Quote & Joke
+
+<p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="95%" />
+</p>
+
+<p>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" width="95%" />
+</p>
+
+---
+
+## 🕒 WakaTime Stats (Coding Activity)
+
+<p>
+  <img src="https://wakatime.com/share/@mdnafeed/00000000-0000-0000-0000-000000000000.svg" alt="WakaTime Stats" width="95%" />
+</p>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdnafeed/mdnafeed/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdnafeed/mdnafeed/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdnafeed/mdnafeed/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+## 📊 GitHub 3D Contribution Calendar
+
+<p>
+  <img src="https://raw.githubusercontent.com/mdnafeed/mdnafeed/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="95%" />
+</p>
+
+---
+
+<div>
   
 ### ⭐ Thanks for visiting my profile! Star my repositories if you find them useful! ⭐
 
-![Profile Views](https://komarev.com/ghpvc/?username=mdnafeed&label=Profile%20Views&color=0e75b6&style=flat-square)
+### 📊 Current Stats at a Glance
 
-### 🎵 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-
-### 📱 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-🚀 Coming soon...
-<!-- BLOG-POST-LIST:END -->
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
-
-</div>
+```mermaid
+pie
+    "TypeScript" : 45
+    "JavaScript" : 35
+    "HTML/CSS" : 14
+    "Others" : 6
