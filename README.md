@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Nafeed Razy Akram</h1>
-<h3 align="center">A passionate Frontend Developer from India specializing in Angular, Vue.js, and Modern Web Technologies</h3>
+<h3 align="center">A passionate Software Developer from India specializing in Angular, Vue.js, Node JS and Nest JS and Modern Web Technologies</h3>
 
 <br/>
 
@@ -33,13 +33,12 @@
     <td width="50%">
       <h3>👨‍💻 Personal Info</h3>
       <ul>
-        <li>🔭 <b>Current Role:</b> Angular & Vue.js Developer</li>
-        <li>🌱 <b>Currently Learning:</b> NestJS, Next.js, Advanced TypeScript</li>
-        <li>💬 <b>Ask me about:</b> Angular, Vue.js, React, JavaScript, TypeScript</li>
+        <li>🔭 <b>Current Role:</b> Software Developer</li>
+        <li>💬 <b>Ask me about:</b>Node JS, Nest JS, Angular, Vue.js, React, JavaScript, TypeScript</li>
         <li>📫 <b>Email:</b> mdnafeed08@gmail.com</li>
-        <li>📱 <b>Phone:</b> +91 XXXXXXXXXX</li>
+        <li>📱 <b>Phone:</b> +91 9716719376</li>
         <li>📍 <b>Location:</b> India</li>
-        <li>🎂 <b>Birthday:</b> [Your Birthday]</li>
+        <li>🎂 <b>Birthday:</b> 05 March 1995</li>
         <li>🌐 <b>Languages:</b> English, Hindi, [Your Native Language]</li>
       </ul>
     </td>
@@ -48,10 +47,9 @@
       <ul>
         <li>⚡ <b>Fun Fact:</b> I love creating beautiful UI/UX experiences</li>
         <li>🎯 <b>2026 Goals:</b> Contribute to Open Source & Build SaaS Products</li>
-        <li>🚀 <b>Dream:</b> Become a Full-Stack Architect</li>
         <li>📚 <b>Reading:</b> Clean Code by Robert C. Martin</li>
-        <li>🎓 <b>Education:</b> [Your Degree]</li>
-        <li>💼 <b>Experience:</b> [X] Years</li>
+        <li>🎓 <b>Education:</b> B-Tech in Computer Science</li>
+        <li>💼 <b>Experience:</b> 5+ Years</li>
         <li>🏆 <b>Achievements:</b> [List your achievements]</li>
       </ul>
      </td>
